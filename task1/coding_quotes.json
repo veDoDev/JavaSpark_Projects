@@ -1,0 +1,102 @@
+[
+  {
+    "quote": "Talk is cheap. Show me the code.",
+    "author": "Linus Torvalds"
+  },
+  {
+    "quote": "Programs must be written for people to read, and only incidentally for machines to execute.",
+    "author": "Harold Abelson"
+  },
+  {
+    "quote": "First, solve the problem. Then, write the code.",
+    "author": "John Johnson"
+  },
+  {
+    "quote": "Any fool can write code that a computer can understand. Good programmers write code that humans can understand.",
+    "author": "Martin Fowler"
+  },
+  {
+    "quote": "Fix the cause, not the symptom.",
+    "author": "Steve Maguire"
+  },
+  {
+    "quote": "Premature optimization is the root of all evil.",
+    "author": "Donald Knuth"
+  },
+  {
+    "quote": "Testing can only prove the presence of bugs, not their absence.",
+    "author": "Edsger W. Dijkstra"
+  },
+  {
+    "quote": "Debugging is twice as hard as writing the code in the first place.",
+    "author": "Brian Kernighan"
+  },
+  {
+    "quote": "It's easier to ask forgiveness than it is to get permission.",
+    "author": "Grace Hopper"
+  },
+  {
+    "quote": "There are only two kinds of languages: the ones people complain about and the ones nobody uses.",
+    "author": "Bjarne Stroustrup"
+  },
+  {
+    "quote": "Make it work, make it right, make it fast.",
+    "author": "Kent Beck"
+  },
+  {
+    "quote": "Some people, when confronted with a problem, think, 'I know, I'll use regular expressions.' Now they have two problems.",
+    "author": "Jamie Zawinski"
+  },
+  {
+    "quote": "There are only two ways to write error-free programs; only the third one works.",
+    "author": "Tony Hoare"
+  },
+  {
+    "quote": "Any sufficiently advanced bug is indistinguishable from a feature.",
+    "author": "Rich Kulawiec"
+  },
+  {
+    "quote": "Measuring programming progress by lines of code is like measuring aircraft building progress by weight.",
+    "author": "Bill Gates"
+  },
+  {
+    "quote": "Most good programmers do programming not because they expect to get paid or get adulation, but because it is fun to program.",
+    "author": "Linus Torvalds"
+  },
+  {
+    "quote": "Good programmers write code that humans can understand.",
+    "author": "Martin Fowler"
+  },
+  {
+    "quote": "Simplicity is the soul of efficiency.",
+    "author": "Austin Freeman"
+  },
+  {
+    "quote": "Any problem can be solved by adding another level of indirection.",
+    "author": "David Wheeler"
+  },
+  {
+    "quote": "Algorithms + Data Structures = Programs.",
+    "author": "Niklaus Wirth"
+  },
+  {
+    "quote": "Focus is saying no to 1000 good ideas.",
+    "author": "John Carmack"
+  },
+  {
+    "quote": "Code without tests is broken code.",
+    "author": "Jacob Kaplan-Moss"
+  },
+  {
+    "quote": "The best method for accelerating a computer is the one that boosts it by 9.8 m/s2.",
+    "author": "Anonymous"
+  },
+  {
+    "quote": "One man's crappy software is another man's full-time job.",
+    "author": "Jessica Gaston"
+  },
+  {
+    "quote": "Walking on water and developing software from a specification are easy if both are frozen.",
+    "author": "Edward V Berard"
+  }
+]
